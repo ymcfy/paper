@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f7f33a95c5cdee4083a6add3e868eec
+timeCreated: 1624158124
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dropdown: {instanceID: 0}
+  - text: {instanceID: 0}
+  - pre1: {instanceID: 0}
+  - maincamera: {instanceID: 0}
+  - cubePresent: {fileID: 1301439326745306, guid: 9b66f0f6b87d4714d8435494ec685fe0,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
